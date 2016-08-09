@@ -1,0 +1,74 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "icon.png": {
+        "previousModTime": 1470506150875,
+        "modified": 1470506150875,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1470506454295,
+        "modified": 1470506454295,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1470506150875,
+        "modified": 1470506150875,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1470506150879,
+        "modified": 1470506150879,
+        "seen": true,
+        "name": "README.md"
+      },
+      "TouchBuzzer.xdk": {
+        "previousModTime": 1470506151471,
+        "modified": 1470506151471,
+        "seen": true,
+        "name": "TouchBuzzer.xdk"
+      },
+      "TouchBuzzer.xdke": {
+        "previousModTime": 1470506152619,
+        "modified": 1470506152619,
+        "seen": true,
+        "name": "TouchBuzzer.xdke"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1470506151315,
+        "modified": 1470506151315,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "icon.png": {
+        "previousModTime": 1470506790998
+      },
+      "main.js": {
+        "previousModTime": 1470506790998
+      },
+      "package.json": {
+        "previousModTime": 1470506790998
+      },
+      "README.md": {
+        "previousModTime": 1470506790998
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1470506790998
+      }
+    }
+  }
+}
