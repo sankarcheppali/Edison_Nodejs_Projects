@@ -1,6 +1,6 @@
 {
-  "name": "LCDwriteapp",
-  "description": "",
+  "name": "AWSIoTSendAccelerometer",
+  "description": "Send accelerometer data to AWS IoT using MQTT",
   "version": "0.0.0",
   "main": "main.js",
   "engines": {
